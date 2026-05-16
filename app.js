@@ -12,5 +12,6 @@ alert("uh-oh!");
         <p>testing</p>
 
         <h2>Header 2</h2>
+        <p>testing 2</p>
     </body>
 </html>

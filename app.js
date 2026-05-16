@@ -10,5 +10,7 @@ alert("uh-oh!");
         <title> Wazzzup</title>
         <h1>Header 1</h1>
         <p>testing</p>
+
+        <h2>Header 2</h2>
     </body>
 </html>
